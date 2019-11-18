@@ -1,0 +1,46 @@
+.container1 {
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+
+}
+
+@media screen and (max-width: 600px) {
+    .container1 {
+    height: 60vh;
+    }
+}
+
+h2:hover {
+color: black;
+}
+
+.box1 {
+    background-image: url(/docs/assets/shapingspace.png);
+}
+
+.box2 {
+    background-image: url(/docs/assets/shades.png);
+}
+
+.box3 {
+    background-image: url(/docs/assets/grid.png);
+}
+
+.box7 {
+    background-image: url(/docs/assets/ikebana.png);
+    background-size: 101%;
+    background-position: center;
+}
+
+.box8 {
+    background-image: url(/docs/assets/organizingcollections.png);
+    background-size: 140%;
+    background-position: center;
+}
+
+.box9 {
+    background-image: url(/docs/assets/storymatrix3.png);
+    background-position: center;
+}

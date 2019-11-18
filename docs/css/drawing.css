@@ -1,0 +1,290 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 1690vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.work1 {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 60vh;
+    background-image: url(/docs/assets/drawing1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .trigger1:hover, .work1:hover {
+    opacity: .5;
+    left: -20vh;
+} */
+/* 
+
+.trigger1 {
+    top: -59vh;
+    margin: 0px auto;
+    position: relative;
+    width: 27vw;
+    height: 55vh;
+    background-size: 100%;
+
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+} */
+
+.work2 {
+    top: 40vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 40vh;
+    background-image: url(/docs/assets/drawing2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.work3 {
+    top: 80vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing3.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work4 {
+    top: 110vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing4.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work5 {
+    top: 140vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing5.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work6 {
+    top: 170vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+    background-image: url(/docs/assets/drawing6.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work7 {
+    top: 210vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing7.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work8 {
+    top: 230vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing8.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work9 {
+    top: 230vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing9.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work10 {
+    top: 250vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing10.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work11 {
+    top: 260vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing11.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work12 {
+    top: 280vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing12.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work13 {
+    top: 290vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    background-image: url(/docs/assets/drawing13.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work14 {
+    top: 330vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+    background-image: url(/docs/assets/drawing14.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work15 {
+    top: 370vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+    background-image: url(/docs/assets/drawing15.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work16 {
+    top: 370vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+    background-image: url(/docs/assets/drawing16.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+.work17 {
+    top: 360vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 100vh;
+    background-image: url(/docs/assets/drawing17.png);
+    background-size: contain;
+    background-repeat: no-repeat;  
+}
+
+
+/* mobile resizing */
+
+
+@media screen and (max-width: 600px) {
+    .container1 {
+    width: 100vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #body {
+    width: 100vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work1, .work2, .work3, .work4, .work5,
+    .work6, .work7, .work8, .work9, .work10,
+    .work11, .work12, .work13, .work14, .work15,
+    .work16, .work17, .work18, .work19, .work20 {
+    width: 100%;
+    
+    }
+}
+/* 
+@media screen and (max-width: 800px) {
+    .work1, .work2, .work3, .work4, .work5,
+    .work6, .work7, .work8, .work9, .work10,
+    .work11, .work12, .work13, .work14, .work15,
+    .work16, .work17, .work18, .work19, .work20 {
+    width: 170%;
+    left: -17vw;
+    background-position: center;
+    }
+} */
+
+@media screen and (max-width: 600px) {
+    .work2 {
+    top: 0vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work3 {
+    top: 10vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work4 {
+    top: 10vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work5, .work6, .work7 {
+    top: 10vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work8 {
+    top: 5vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .work9 {
+    top: -10vh;
+    }
+}

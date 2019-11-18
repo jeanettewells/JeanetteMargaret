@@ -1,0 +1,54 @@
+.container1 {
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 135vh;
+
+}
+
+@media screen and (max-width: 600px) {
+    .container1 {
+    height: 80vh;
+    }
+}
+
+.box1 {
+    background-image: url(/docs/assets/facebook.png);
+}
+
+.box2 {
+    background-image: url(/docs/assets/entropy.gif);
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center;
+}
+
+.box3 {
+    background-image: url(/docs/assets/remember.gif);
+}
+
+.box7 {
+    background-image: url(/docs/assets/inplainsight.jpg);
+}
+
+.box8 {
+    background-image: url(/docs/assets/eyeslikehis.png);
+    background-size: 110%;
+    background-position: center;
+}
+
+.box9 {
+    background-image: url(/docs/assets/maga.png);
+}
+
+.box13 {
+    background-image: url(/docs/assets/breathe.gif);
+    background-size: 105%;
+    background-position: center;
+}
+
+.box14 {
+    background-image: url(/docs/assets/weighted.jpg);
+    background-size: 110%;
+    background-position: center;
+}

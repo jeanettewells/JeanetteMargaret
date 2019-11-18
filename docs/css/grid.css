@@ -1,0 +1,130 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:265vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    color: grey;
+    text-align: center; 
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.container2 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 200vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.grid1 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.grid2 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.grid3 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.grid4 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid4.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.grid5 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid5.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.grid6 {
+    margin: 0px auto;
+    position: relative;
+    width: 35vw;
+    height:60vh;
+    display: flex;
+    flex-direction: row;
+    background-image: url(/docs/assets/grid6.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}

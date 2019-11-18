@@ -1,0 +1,246 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 1870vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    color: grey;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.composition1 {
+    left: -3vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 80vh;
+    background-image: url(/docs/assets/composition1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+
+}
+
+.composition2 {
+    left: -2vh;
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 80vh;
+    background-image: url(/docs/assets/composition2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition3 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 90vh;
+    background-image: url(/docs/assets/composition3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition4 {
+    top: 50vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 80vh;
+    background-image: url(/docs/assets/composition4.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition5 {
+    top: 70vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition5.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition6 {
+    top: 90vh;
+    margin: 0px auto;
+    position: relative;
+    width: 43vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition6.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition7 {
+    top: 120vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition8 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition8.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition9 {
+    top: 12vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition9.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition10 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition10.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition11 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition11.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition12 {
+    top: 15vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition12.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition13 {
+    top: 0vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition13.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition14 {
+    top: -5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition14.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition15 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition15.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition16 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition16.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.composition17 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 33vw;
+    height: 100vh;
+    background-image: url(/docs/assets/composition17.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+
+
+

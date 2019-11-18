@@ -1,0 +1,386 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:1100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    color: grey;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.composition1 {
+    left: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 60vw;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .composition1:hover {
+    opacity: .5;
+} */
+
+.shade1 {
+    margin: 0px auto;
+    position: relative;
+    width: 14.5vw;
+    height: 40vh;
+    background-image: url(/docs/assets/shade1.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.shade2 {
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 40vh;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat ;
+    background-image: url(/docs/assets/shade2.png);
+}
+
+.composition2 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 120vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .composition2:hover {
+    opacity: .5;
+} */
+
+.box1 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shade3 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade3.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.shade4 {
+    margin: 0px auto;
+    position: relative;
+    width: 60vw;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade4.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.shade5 {
+    left: -20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade5.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.composition3 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 45vw;
+    height: 190vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* .composition3:hover {
+    opacity: .5;
+} */
+
+.box2 {
+    margin: 0px auto;
+    position: relative;
+    width: 45vw;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shade6 {
+    position: relative;
+    width: 22vw;
+    height: 140vh;
+    background-image: url(/docs/assets/shade6.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.shade7 {
+    margin: 0px auto;
+    position: relative;
+    width: 22vw;
+    height: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade7.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.shade8 {
+    margin: 0px auto;
+    position: relative;
+    width: 22vw;
+    height: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade8.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.shade9 {
+    margin: 0px auto;
+    position: relative;
+    width: 22vw;
+    height: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade9.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.shade10 {
+    margin: 0px auto;
+    position: relative;
+    width: 22vw;
+    height: 40vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade10.png);
+    background-size: 120%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.composition4 {
+    top: 70vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box3 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade11.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.shade12 {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade12.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.composition5 {
+    top: 30vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 200vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade13.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.composition6 {
+    top: -10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 60vw;
+    height: 150vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade14.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.composition7 {
+    left: -18vh;
+    top: 0vh;
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box4 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade15.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.box5 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade17.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.box6 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade16.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.box7 {
+    margin: 0px auto;
+    position: relative;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/shade18.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.composition8 {
+    top: 0vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.box8 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    background-image: url(/docs/assets/shade19.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.box9 {
+    top: 15vh;
+    margin: 0px auto;
+    position: relative;
+    width: 60vw;
+    height: 90vh;
+    display: flex;
+    background-image: url(/docs/assets/shade20.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}

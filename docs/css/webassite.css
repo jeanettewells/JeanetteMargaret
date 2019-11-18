@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+    .container1 {
+    height: 45vh;
+    }
+}
+
+h2:hover {
+    color: black;
+    }
+
+.box1 {
+    background-image: url(/docs/assets/astolenidentity.gif);
+}
+
+.box2 {
+    background-image: url(/docs/assets/redcross.gif);
+    background-position: center;
+}
+
+.box3 {
+    background-image: url(/docs/assets/sketchbook.gif);
+    background-size: 80%;
+    background-color: black;
+}

@@ -1,0 +1,231 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 1500vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    color: grey;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.carousel {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 40vh;
+    display: flex;
+}
+
+.og1 {
+    margin: 0px auto;
+    position: relative;
+    width: 17vw;
+    height: 40vh;
+    display: flex;
+    background-color: grey;
+}
+
+.og2 {
+    margin: 0px auto;
+    position: relative;
+    width: 17vw;
+    height: 40vh;
+    display: flex;
+    background-color: grey;
+}
+
+.og3 {
+    margin: 0px auto;
+    position: relative;
+    width: 17vw;
+    height: 40vh;
+    display: flex;
+    background-color: grey;
+}
+
+.og4 {
+    margin: 0px auto;
+    position: relative;
+    width: 17vw;
+    height: 40vh;
+    display: flex;
+    background-color: grey;
+}
+
+.box1 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 90vh;
+    display: flex;
+    background-image: url(/docs/assets/knolling1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box2 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 120vh;
+    display: flex;
+    background-image: url(/docs/assets/knolling2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box3 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 120vh;
+    display: flex;
+    background-image: url(/docs/assets/knolling3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box4 {
+    left: -5vw;
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height: 120vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.boxing1 {
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    background-image: url(/docs/assets/boxing1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxing2 {
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    background-image: url(/docs/assets/boxing2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxing3 {
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    background-image: url(/docs/assets/boxing3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boxing4 {
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 50vh;
+    display: flex;
+    background-image: url(/docs/assets/boxing4.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box5 {
+    top: -20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 120vh;
+    display: flex;
+    background-image: url(/docs/assets/boxinggrid1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box6 {
+    left: -5vw;
+    top: -30vh;
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.boxinggrid2 {
+    margin: 0px auto;
+    position: relative;
+    width: 44vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/boxinggrid2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.boxinggrid3 {
+    margin: 0px auto;
+    position: relative;
+    width: 45vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/boxinggrid3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+
+

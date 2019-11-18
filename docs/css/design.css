@@ -1,0 +1,277 @@
+.container1 {
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 50vh;
+
+}
+
+#body {
+    top: 5vh;
+}
+
+/* INDEX BOXES */
+
+.designindex {
+    position: relative;
+    margin: 0px auto;
+
+    width: 120vh;
+    height: 280px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.designindex2 {
+    position: relative;
+    margin: 0px auto;
+
+    top: -195vh;
+    width: 120vh;
+    height: 280px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.designindex3 {
+    position: relative;
+    margin: 0px auto;
+
+    top: -389vh;
+    width: 120vh;
+    height: 280px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.designindextext {
+    position: relative;
+    margin: 0px auto;
+    top: -2vh;
+    width: 120vh;
+    height: 200vh; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.designindextext2 {
+    position: relative;
+    margin: 0px auto;
+    top: -197vh;
+    width: 120vh;
+    height: 200vh; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.designindextext3 {
+    position: relative;
+    margin: 0px auto;
+    top: -391vh;
+    width: 120vh;
+    height: 200vh; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box1 {
+    width: 32vh;
+    height: 32vh;
+    background-image: url(/docs/assets/compositionalstudies.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box1:hover, .box2:hover, .box3:hover, .box7:hover, .box8:hover, .box9:hover, .box13:hover, .box14:hover, .box15:hover {
+    opacity: .3;
+
+}
+
+
+.box2 {
+    width: 32vh;
+    height: 32vh;
+    background-image: url(/docs/assets/visualcommunication.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box3 {
+    width: 32vh;
+    height: 32vh;
+    background-image: url(/docs/assets/webassite.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.box4 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box5 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box6 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box7 {
+    width: 32vh;
+    height: 32vh;
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box8 {
+    width: 32vh;
+    height: 32vh;
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box9 {
+    width: 32vh;
+    height: 32vh;
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.box10 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box11 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box12 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box13 {
+    width: 32vh;
+    height: 32vh;
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.box14 {
+    width: 32vh;
+    height: 32vh;
+    background-color: yellow;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box15 {
+    width: 32vh;
+    height: 32vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.box16 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box17 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box18 {
+    width: 30vh;
+    height: 5vh;
+}
+
+
+/* paragraph styles */
+
+h4 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: black;
+    text-align: center;
+    display: block;
+    font-size: 12.5px;
+    letter-spacing: 1px;
+}
+
+/* mobile resizing */
+
+@media screen and (max-width: 600px) {
+    .designindex, .designindex2, .designindex3 {
+    width: 50vh;
+    height: 50px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .designindex2 {
+    top: 9vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .designindex3 {
+    top: 18vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .box1, .box2, .box3, .box7, .box8, .box9, .box13, .box14, .box15 {
+    width: 16vh;
+    height: 16vh;
+    flex-wrap: wrap;
+    
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .designindextext, .designindextext2, .designindextext3 {
+    top: 9vh;
+    width: 50vh;
+    height: 50px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .designindextext2 {
+    top: 18vh;;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .designindextext3 {
+    top: 27vh;;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .box4, .box5, .box6, .box10, .box11, .box12, .box16, .box17, .box18 {
+    width: 16vh;
+    height: 2vh;
+    }
+}

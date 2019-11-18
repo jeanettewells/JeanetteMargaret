@@ -1,0 +1,178 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 1353vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    color: grey;
+    text-align: center;
+    
+}
+
+.collage1 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    background-image: url(/docs/assets/collage1.png);
+    background-size: 80vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage2 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    background-image: url(/docs/assets/collage2.png);
+    background-size: 80vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage3 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    background-image: url(/docs/assets/collage3.png);
+    background-size: 80vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage4 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    background-image: url(/docs/assets/collage4.png);
+    background-size: 120vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage5 {
+    top: 20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 120vh;
+    background-image: url(/docs/assets/collage5.png);
+    background-size: 120vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage6 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    background-image: url(/docs/assets/collage6.png);
+    background-size: 120vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage7 {
+    top: 30vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 120vh;
+    background-image: url(/docs/assets/collage7.png);
+    background-size: 70vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage8 {
+    top: 55vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 120vh;
+    background-image: url(/docs/assets/collage8.png);
+    background-size: 70vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage9 {
+    top: 80vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 120vh;
+    background-image: url(/docs/assets/collage9.png);
+    background-size: 70vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage10 {
+    top: 105vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 50vh;
+    background-image: url(/docs/assets/collage10.png);
+    background-size: 50vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage11 {
+    top: 135vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 50vh;
+    background-image: url(/docs/assets/collage11.png);
+    background-size: 50vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}
+
+.collage12 {
+    top: 165vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 50vh;
+    background-image: url(/docs/assets/collage12.png);
+    background-size: 50vh;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+}

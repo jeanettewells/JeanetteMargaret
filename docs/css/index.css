@@ -1,0 +1,290 @@
+/* format */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#body {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+}
+
+#padding {
+    width: 100vw;
+    height: 2vh;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(247, 214, 68);
+}
+
+/* header */
+
+#header {
+    margin: 0px auto;
+    width: 80vw;
+    height: 15vh;
+    background-image: url(/docs/assets/header.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.index {
+    top: 1vh;
+    margin: 0px auto;
+    width: 38vw;
+    height: 5vh;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    background-size: contain;
+
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 13px;
+    letter-spacing: 3px;
+    color: rgba(139, 137, 137, 0.536);
+
+}
+
+/* body */
+
+#container {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 70vh;
+}
+
+.logo {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 30vw;
+    height: 55vh; 
+    background-image: url(/docs/assets/sunflower.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* footer */
+
+#footer {
+    margin: 0px auto;
+    width: 100vw;
+    position: relative;
+
+}
+
+/* footer logo */
+
+.footerlogo {
+    margin: 0px auto;
+    height: 6vh;
+    background-image: url(/docs/assets/footerlogo.gif);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* social */
+
+#social {
+    margin: 0px auto;
+    left: -3.2vh;
+    width: 6vh;
+    height: 5vh;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.mail {
+    width: 3vh;
+    height: 70vh;
+    position: relative;
+    background-image: url(/docs/assets/mailb.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mail:hover {
+    background-image: url(/docs/assets/maily.png);
+}
+
+.facebook {
+    width: 3vh;
+    height: 70vh;
+    position: relative;
+    background-image: url(/docs/assets/facebookb.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: space-between;
+}
+
+.facebook:hover {
+    background-image: url(/docs/assets/facebooky.png);
+}
+
+.instagram {
+    width: 3vh;
+    height: 70vh;
+    position: relative;
+    background-image: url(/docs/assets/instagram.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: space-between;
+}
+
+.instagram:hover {
+    background-image: url(/docs/assets/instagramy.png);
+    background-repeat: no-repeat;
+}
+
+.linkedin {
+    width: 3vh;
+    height: 70vh;
+    position: relative;
+    background-image: url(/docs/assets/linkedinb.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: space-between;
+}
+
+.linkedin:hover {
+    background-image: url(/docs/assets/linkediny.png);
+}
+
+/* tablets resizing */
+
+@media screen and (max-width: 800px) {
+    .header {
+    width: 100vw;
+    background-size: contain;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .index {
+    width: 50vw;
+    height: 5vh;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .index {
+    width: 55vw;
+    height: 5vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .index {
+    width: 60vw;
+    height: 5vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+    top: 100vh;
+    width: 180vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .logo {
+    }
+}
+
+/* mobile resizing */
+
+@media screen and (max-width: 600px) {
+    .header {
+    width: 100vw;
+    background-size: 120%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .index {
+    width: 80vw;
+    height: 5vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+    top: 100vh;
+    width: 60vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .logo {
+    width: 80%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .footer{
+    top: -80vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .social{
+    top: -80vh;
+    }
+}
+
+/* Paragraph styles */
+
+.headingtext {
+    font-family: 'Annie Use Your Telescope', cursive;
+    margin: 0px auto;
+    position: relative;
+    font-size: 13px;
+    color: black;
+    font-display: center;
+    letter-spacing: 3px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 13px;
+}
+
+h2:hover {
+    color: rgb(247, 214, 68);
+}
+

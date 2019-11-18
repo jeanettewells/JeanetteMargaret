@@ -1,0 +1,72 @@
+.container1 {
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 135vh;
+
+}
+
+@media screen and (max-width: 600px) {
+    .container1 {
+    height: 80vh;
+    }
+}
+
+h2:hover {
+color: black;
+}
+
+.box1 {
+    background-image: url(/docs/assets/thinkbig.png);
+    background-position: center;
+}
+
+.box2 {
+    background-image: url(/docs/assets/dogmoji.png);
+    background-size: 125%;
+    background-position: center;
+}
+
+.box3 {
+    background-image: url(/docs/assets/dataviz.png);
+    background-position: center;
+}
+
+.box7 {
+    background-image: url(/docs/assets/lightenupchicagobc.png);
+    background-size: 125%;
+    background-position: center;
+}
+
+.box8 {
+    background-image: url(/docs/assets/learningbyplayingpamphlet2.png);
+    background-size: 105%;
+    background-position: bottom ;
+}
+
+.box9 {
+    background-image: url(/docs/assets/whereto.png);
+    background-size: 170%;
+    background-position-x: -5.8vw ;
+}
+
+
+.box13 {
+    background-image: url(/docs/assets/marinaabramovic.png);
+    background-size: 180%;
+    background-position: bottom;
+    background-position-x: -22vh;
+    
+}
+
+@media screen and (max-width: 600px) {
+    .box13 {
+    background-position: bottom right;
+    }
+}
+
+.box14 {
+    background-image: url(/docs/assets/bodiezine.png);
+    background-size: 190%;
+    background-position: bottom right;
+}
