@@ -58,7 +58,12 @@ a:hover {
 
 }
 
-/* body */
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    font-size: 13px;
+    color: rgb(172, 172, 172);
+}
 
 #container {
     margin: 0px auto;
@@ -109,7 +114,7 @@ a:hover {
     margin: 0px auto;
     left: -3.2vh;
     width: 6vh;
-    height: 5vh;
+    height: 10vh;
     position: relative;
     display: flex;
     flex-direction: row;
@@ -119,7 +124,7 @@ a:hover {
 
 .mail {
     width: 3vh;
-    height: 70vh;
+    height: 5vh;
     position: relative;
     background-image: url(/docs/assets/mailb.png);
     background-repeat: no-repeat;
@@ -134,7 +139,7 @@ a:hover {
 
 .facebook {
     width: 3vh;
-    height: 70vh;
+    height: 5vh;
     position: relative;
     background-image: url(/docs/assets/facebookb.png);
     background-repeat: no-repeat;
@@ -149,7 +154,7 @@ a:hover {
 
 .instagram {
     width: 3vh;
-    height: 70vh;
+    height: 5vh;
     position: relative;
     background-image: url(/docs/assets/instagram.png);
     background-repeat: no-repeat;
@@ -165,7 +170,7 @@ a:hover {
 
 .linkedin {
     width: 3vh;
-    height: 70vh;
+    height: 5vh;
     position: relative;
     background-image: url(/docs/assets/linkedinb.png);
     background-repeat: no-repeat;

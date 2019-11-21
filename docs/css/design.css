@@ -28,7 +28,7 @@
     position: relative;
     margin: 0px auto;
 
-    top: -195vh;
+    top: -16vh;
     width: 120vh;
     height: 280px; 
     display: flex;
@@ -40,8 +40,7 @@
 .designindex3 {
     position: relative;
     margin: 0px auto;
-
-    top: -389vh;
+    top: -14vh;
     width: 120vh;
     height: 280px; 
     display: flex;
@@ -55,18 +54,18 @@
     margin: 0px auto;
     top: -2vh;
     width: 120vh;
-    height: 200vh; 
+    height: 20vh; 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
 
 .designindextext2 {
+    top: -18vh;
     position: relative;
     margin: 0px auto;
-    top: -197vh;
     width: 120vh;
-    height: 200vh; 
+    height: 2vh; 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -75,9 +74,9 @@
 .designindextext3 {
     position: relative;
     margin: 0px auto;
-    top: -391vh;
+    top: -16vh;
     width: 120vh;
-    height: 200vh; 
+    height: 2vh; 
     display: flex;
     flex-direction: row;
     justify-content: space-around;

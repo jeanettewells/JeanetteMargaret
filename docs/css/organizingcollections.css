@@ -3,7 +3,7 @@
     margin: 0px auto;
     position: relative;
     width: 80vw;
-    height: 1500vh;
+    height: 1020vh;
     display: flex;
     flex-direction: column;
 }
@@ -13,12 +13,13 @@ h2:hover {
 }
 
 .description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
     margin: 0px auto;
     position: relative;
-    width: 50vw;
-    color: grey;
+    width: 60vw;
     text-align: center;
-    
+    color: rgb(172, 172, 172); 
 }
 
 h3 {
@@ -48,7 +49,9 @@ h3 {
     width: 17vw;
     height: 40vh;
     display: flex;
-    background-color: grey;
+    background-image: url(/docs/assets/pile2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .og2 {
@@ -57,7 +60,9 @@ h3 {
     width: 17vw;
     height: 40vh;
     display: flex;
-    background-color: grey;
+    background-image: url(/docs/assets/pile6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .og3 {
@@ -66,7 +71,10 @@ h3 {
     width: 17vw;
     height: 40vh;
     display: flex;
-    background-color: grey;
+    background-position: initial;
+    background-image: url(/docs/assets/pile3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .og4 {
@@ -75,7 +83,9 @@ h3 {
     width: 17vw;
     height: 40vh;
     display: flex;
-    background-color: grey;
+    background-image: url(/docs/assets/pile4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box1 {
@@ -193,7 +203,7 @@ h3 {
     margin: 0px auto;
     position: relative;
     width: 90vw;
-    height: 90vh;
+    height: 50vh;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -227,5 +237,28 @@ h3 {
     background-position: center top;
 }
 
+.box7 {
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    display: flex;
+    background-image: url(/docs/assets/organic1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box8 {
+    top: 35vh;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 100vh;
+    display: flex;
+    background-image: url(/docs/assets/organic2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 

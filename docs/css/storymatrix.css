@@ -6,10 +6,134 @@
     height: 1690vh;
     display: flex;
     flex-direction: column;
-    background-color: yellow;
     
 }
 
 h2:hover {
     color: black;
+}
+
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 55vw;
+    text-align: center;
+    color: rgb(172, 172, 172);
+}
+
+.descriptionleft {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    font-size: 13px;
+    margin: 0px auto;
+    position: relative;
+    width: 38vw;
+    color: rgb(172, 172, 172);
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+}
+
+h4 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    text-align: left;
+    display: block; 
+}
+
+.box1 {
+    top: 0vh;
+    left: -23vh;
+    margin: 0px auto;
+    position: relative;
+    width: 40vw;
+    height: 67vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.box2 {
+    margin: 0px auto;
+    position: relative;
+    width: 38vw;
+    height: 67vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box3 {
+    margin: 0px auto;
+    position: relative;
+    width: 38vw;
+    height: 67vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.word1 {
+    margin: 0px auto;
+    position: relative;
+    width: 30vw;
+    height: 29vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(/docs/assets/collapseb.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.word2 {
+    left: -.5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(/docs/assets/collapsew.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box4 {
+    left: -9vh;
+    top: 10vh;
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height: 105vh;
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+}
+
+.carousel {
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+}
+
+.indent {
+    text-indent: 5vh;
 }
