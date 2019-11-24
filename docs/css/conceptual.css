@@ -13,42 +13,42 @@
 }
 
 .box1 {
-    background-image: url(/docs/assets/facebook.png);
+    background-image: url(assets/facebook.png);
 }
 
 .box2 {
-    background-image: url(/docs/assets/entropy.gif);
+    background-image: url(assets/entropy.gif);
     background-repeat: no-repeat;
     background-size: 110%;
     background-position: center;
 }
 
 .box3 {
-    background-image: url(/docs/assets/remember.gif);
+    background-image: url(assets/remember.gif);
 }
 
 .box7 {
-    background-image: url(/docs/assets/inplainsight.jpg);
+    background-image: url(assets/inplainsight.jpg);
 }
 
 .box8 {
-    background-image: url(/docs/assets/eyeslikehis.png);
+    background-image: url(assets/eyeslikehis.png);
     background-size: 110%;
     background-position: center;
 }
 
 .box9 {
-    background-image: url(/docs/assets/maga.png);
+    background-image: url(assets/maga.png);
 }
 
 .box13 {
-    background-image: url(/docs/assets/breathe.gif);
+    background-image: url(assets/breathe.gif);
     background-size: 105%;
     background-position: center;
 }
 
 .box14 {
-    background-image: url(/docs/assets/weighted.jpg);
+    background-image: url(assets/weighted.jpg);
     background-size: 110%;
     background-position: center;
 }

@@ -85,7 +85,7 @@
 .box1 {
     width: 32vh;
     height: 32vh;
-    background-image: url(/docs/assets/compositionalstudies.png);
+    background-image: url(assets/compositionalstudies.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -99,7 +99,7 @@
 .box2 {
     width: 32vh;
     height: 32vh;
-    background-image: url(/docs/assets/visualcommunication.png);
+    background-image: url(assets/visualcommunication.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -107,7 +107,7 @@
 .box3 {
     width: 32vh;
     height: 32vh;
-    background-image: url(/docs/assets/webassite.gif);
+    background-image: url(assets/webassite.gif);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;

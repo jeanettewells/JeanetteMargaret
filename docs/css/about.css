@@ -73,7 +73,7 @@ h6 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-image: url(/docs/assets/headshot.jpg);
+    background-image: url(assets/headshot.jpg);
     background-size: 50vh;
     background-repeat: no-repeat;
     background-position: top left;
@@ -116,7 +116,7 @@ h6 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-image: url(/docs/assets/sunflower.gif);
+    background-image: url(assets/sunflower.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top left;
