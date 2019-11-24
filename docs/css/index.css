@@ -32,7 +32,7 @@ a:hover {
     margin: 0px auto;
     width: 80vw;
     height: 15vh;
-    background-image: url(../assets/header.png);
+    background-image: url(/assets/header.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
