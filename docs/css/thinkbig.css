@@ -38,9 +38,20 @@ h3 {
 
 .box1 {
     position: relative;
-    top: -55vh;
+    top: 0vh;
     margin: auto 0px;
     width: 80vw;
     height: 100vh;
-    background-color: red;
+    background-image: url(../assets/thinkbigmag.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.box2 {
+    top: 0vh;
+    left: -10vw;
+    position: relative;
+    margin: auto 0px;
+    width: 100vw;
+    height: 100vh;
 }
