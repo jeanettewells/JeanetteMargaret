@@ -3,7 +3,7 @@
     margin: 0px auto;
     position: relative;
     width: 80vw;
-    height:265vh;
+    height:155vh;
     display: flex;
     flex-direction: column;
     
@@ -37,6 +37,7 @@ h3 {
 }
 
 .box1 {
+    top: -30vh;
     position: relative;
     top: 0vh;
     margin: auto 0px;
@@ -45,13 +46,4 @@ h3 {
     background-image: url(../assets/thinkbigmag.png);
     background-size: contain;
     background-repeat: no-repeat;
-}
-
-.box2 {
-    top: 0vh;
-    left: -10vw;
-    position: relative;
-    margin: auto 0px;
-    width: 100vw;
-    height: 100vh;
 }

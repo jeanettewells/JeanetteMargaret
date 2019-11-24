@@ -52,7 +52,7 @@
 .designindex4 {
     position: relative;
     margin: 0px auto;
-    top: -14vh;
+    top: -12vh;
     width: 120vh;
     height: 280px; 
     display: flex;
@@ -97,7 +97,7 @@
 .designindextext4 {
     position: relative;
     margin: 0px auto;
-    top: -16vh;
+    top: -12vh;
     width: 120vh;
     height: 2vh; 
     display: flex;
@@ -122,7 +122,7 @@
 .box2 {
     width: 32vh;
     height: 32vh;
-    background-image: url(../assets/typography.png);
+    background-image: url(../assets/contemplado.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -309,7 +309,7 @@ h4 {
 
 @media screen and (max-width: 600px) {
     .designindex4 {
-    top: 28vh;
+    top: 30vh;
     }
 }
 
@@ -344,7 +344,7 @@ h4 {
 
 @media screen and (max-width: 600px) {
     .designindextext4 {
-    top: 40vh;;
+    top: 41vh;;
     }
 }
 
