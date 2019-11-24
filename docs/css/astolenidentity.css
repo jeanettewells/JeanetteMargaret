@@ -3,7 +3,7 @@
     margin: 0px auto;
     position: relative;
     width: 80vw;
-    height:135vh;
+    height:130vh;
     display: flex;
     flex-direction: column;
     
@@ -41,6 +41,6 @@ h3 {
     margin: 0px auto;
     position: relative;
     width: 101vw;
-    height:162vh;
+    height:160vh;
     display: flex;
 }

@@ -1,0 +1,63 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:295vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 58vw;
+    text-align: center;
+    color: rgb(172, 172, 172);
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.box1 {
+    left: -5vw;
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height:100vh;
+    background-image: url(../assets/digitalcommunications.png);
+    background-color: black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.box2 {
+    left: -5vw;
+    margin: 0px auto;
+    position: relative;
+    width: 90vw;
+    height:100vh;
+    background-image: url(../assets/analogcommunications.png);
+    background-color: black;
+    background-size: 85%;
+    background-repeat: no-repeat;
+    background-position: center;
+}

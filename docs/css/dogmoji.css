@@ -1,0 +1,49 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    text-align: center;
+    color: rgb(172, 172, 172);
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.box1 {
+    left: 0vw;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height:50vh;
+    background-image: url(../assets/dogmoji1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
