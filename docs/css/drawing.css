@@ -46,7 +46,7 @@
     position: relative;
     width: 50vw;
     height: 40vh;
-    background-image: url(assets/drawing2.png);
+    background-image: url(../assets/drawing2.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -57,7 +57,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing3.png);
+    background-image: url(../assets/drawing3.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -68,7 +68,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing4.png);
+    background-image: url(../assets/drawing4.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -79,7 +79,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing5.png);
+    background-image: url(../assets/drawing5.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -90,7 +90,7 @@
     position: relative;
     width: 50vw;
     height: 100vh;
-    background-image: url(assets/drawing6.png);
+    background-image: url(../assets/drawing6.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -101,7 +101,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing7.png);
+    background-image: url(../assets/drawing7.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -112,7 +112,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing8.png);
+    background-image: url(../assets/drawing8.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -123,7 +123,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing9.png);
+    background-image: url(../assets/drawing9.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -134,7 +134,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing10.png);
+    background-image: url(../assets/drawing10.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -145,7 +145,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing11.png);
+    background-image: url(../assets/drawing11.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -156,7 +156,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing12.png);
+    background-image: url(../assets/drawing12.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -167,7 +167,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(assets/drawing13.png);
+    background-image: url(../assets/drawing13.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -178,7 +178,7 @@
     position: relative;
     width: 50vw;
     height: 100vh;
-    background-image: url(assets/drawing14.png);
+    background-image: url(../assets/drawing14.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -189,7 +189,7 @@
     position: relative;
     width: 50vw;
     height: 100vh;
-    background-image: url(assets/drawing15.png);
+    background-image: url(../assets/drawing15.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -200,7 +200,7 @@
     position: relative;
     width: 50vw;
     height: 100vh;
-    background-image: url(assets/drawing16.png);
+    background-image: url(../assets/drawing16.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
@@ -211,7 +211,7 @@
     position: relative;
     width: 50vw;
     height: 100vh;
-    background-image: url(assets/drawing17.png);
+    background-image: url(../assets/drawing17.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
