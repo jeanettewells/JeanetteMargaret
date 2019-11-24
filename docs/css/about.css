@@ -1,0 +1,220 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:150vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    text-align: left;
+    color: rgb(172, 172, 172);
+    line-height: 18px;
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 26px; 
+    letter-spacing: 3px;
+    color:  rgb(247, 214, 68);
+    text-align: left;
+    font-display: left;
+}
+
+h2 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 13px; 
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+h6 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: black;
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    height: 2px;
+    text-align: left;
+    
+}
+
+.container2 {
+    top: 0vh;
+    margin: 0px auto;
+    position: relative;
+    width: 58vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.box1 {
+    margin: 0px auto;
+    position: relative;
+    width: 30vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/headshot.jpg);
+    background-size: 50vh;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.box2 {
+    margin: 0px auto;
+    position: relative;
+    width: 25vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.up {
+}
+
+.left {
+    text-align: left;
+
+}
+
+.box3 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sunflower{
+    margin: 0px auto;
+    position: relative;
+    width: 15vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-image: url(/docs/assets/sunflower.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.box4{
+    top: 0vh;
+    margin: 0px auto;
+    position: relative;
+    width: 32vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.designindex {
+    top:10vh;
+    position: relative;
+    margin: 0px auto;
+
+    width: 120vh;
+    height: 280px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.designindextext {
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 13px; 
+    letter-spacing: 1px;
+    position: relative;
+    margin: 0px auto;
+    top: 8vh;
+    width: 120vh;
+    height: 20vh; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-display: center;
+    text-align: center;
+    color: black;
+}
+
+.box5 {
+    width: 32vh;
+    height: 32vh;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 190px; 
+    letter-spacing: 3px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-display: center;
+    text-align: center;
+}
+
+.box5:hover, .box6:hover, .box7:hover {
+    opacity: .3;
+
+}
+
+
+.box6 {
+    width: 32vh;
+    height: 32vh;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 190px; 
+    letter-spacing: 3px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-display: center;
+    text-align: center;
+}
+
+.box7 {
+    width: 32vh;
+    height: 32vh;
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 190px; 
+    letter-spacing: 3px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-display: center;
+    text-align: center;
+}
+
+.box8 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box9 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box10 {
+    width: 30vh;
+    height: 5vh;
+}

@@ -3,7 +3,7 @@
     margin: 0px auto;
     position: relative;
     width: 80vw;
-    height: 1690vh;
+    height: 490vh;
     display: flex;
     flex-direction: column;
     
@@ -118,10 +118,9 @@ h4 {
     margin: 0px auto;
     position: relative;
     width: 90vw;
-    height: 105vh;
+    height: 40vh;
     display: flex;
     flex-direction: row;
-    background-color: red;
 }
 
 .carousel {
@@ -131,9 +130,118 @@ h4 {
     height: 20vh;
     display: flex;
     flex-direction: row;
-    background-color: blue;
+}
+
+.image1 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image2 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image3 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image4 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image5 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image6 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image7 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image8 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.image9 {
+    margin: 0px auto;
+    position: relative;
+    width: 9vw;
+    height: 20vh;
+    background-color: yellow;
+}
+
+.box5 {
+    left: -1vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.finalmatrix1 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(/docs/assets/collapsefin1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.finalmatrix2 {
+    top: 5vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    background-image: url(/docs/assets/collapsefin2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .indent {
     text-indent: 5vh;
 }
+

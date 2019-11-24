@@ -1,0 +1,47 @@
+.container1 {
+    top: -2vh;
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height:135vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h2:hover {
+    color: black;
+}
+
+.description {
+    line-height: 2vh;
+    font-family: 'Hind', sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 50vw;
+    text-align: center;
+    color: rgb(172, 172, 172);
+}
+
+h3 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    letter-spacing: 3px;
+    font-size: 26px;
+    color: rgb(247, 214, 68);
+    margin: 0px auto;
+    position: relative;
+    width: 70vw;
+    text-align: center;
+    display: block;
+    
+}
+
+.embedsite {
+    left: -20vh;
+    margin: 0px auto;
+    position: relative;
+    width: 101vw;
+    height:162vh;
+    display: flex;
+}
+
