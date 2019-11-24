@@ -32,7 +32,7 @@ a:hover {
     margin: 0px auto;
     width: 80vw;
     height: 15vh;
-    background-image: url(/docs/assets/header.png);
+    background-image: url(../assets/header.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
@@ -78,7 +78,7 @@ a:hover {
     position: relative;
     width: 30vw;
     height: 55vh; 
-    background-image: url(/docs/assets/sunflower.gif);
+    background-image: url(../assets/sunflower.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -98,7 +98,7 @@ a:hover {
 .footerlogo {
     margin: 0px auto;
     height: 6vh;
-    background-image: url(/docs/assets/footerlogo.gif);
+    background-image: url(../assets/footerlogo.gif);
     position: relative;
     display: flex;
     flex-direction: row;
@@ -126,7 +126,7 @@ a:hover {
     width: 3vh;
     height: 5vh;
     position: relative;
-    background-image: url(/docs/assets/mailb.png);
+    background-image: url(../assets/mailb.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -134,14 +134,14 @@ a:hover {
 }
 
 .mail:hover {
-    background-image: url(/docs/assets/maily.png);
+    background-image: url(../assets/maily.png);
 }
 
 .facebook {
     width: 3vh;
     height: 5vh;
     position: relative;
-    background-image: url(/docs/assets/facebookb.png);
+    background-image: url(../assets/facebookb.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -149,14 +149,14 @@ a:hover {
 }
 
 .facebook:hover {
-    background-image: url(/docs/assets/facebooky.png);
+    background-image: url(../assets/facebooky.png);
 }
 
 .instagram {
     width: 3vh;
     height: 5vh;
     position: relative;
-    background-image: url(/docs/assets/instagram.png);
+    background-image: url(../assets/instagram.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -164,7 +164,7 @@ a:hover {
 }
 
 .instagram:hover {
-    background-image: url(/docs/assets/instagramy.png);
+    background-image: url(../assets/instagramy.png);
     background-repeat: no-repeat;
 }
 
@@ -172,7 +172,7 @@ a:hover {
     width: 3vh;
     height: 5vh;
     position: relative;
-    background-image: url(/docs/assets/linkedinb.png);
+    background-image: url(../assets/linkedinb.png);
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -180,7 +180,7 @@ a:hover {
 }
 
 .linkedin:hover {
-    background-image: url(/docs/assets/linkediny.png);
+    background-image: url(../assets/linkediny.png);
 }
 
 /* tablets resizing */
