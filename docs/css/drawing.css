@@ -57,7 +57,7 @@
     position: relative;
     width: 50vw;
     height: 70vh;
-    background-image: url(../assets/drawing3.png);
+    background-image: url(assets/drawing3.png);
     background-size: contain;
     background-repeat: no-repeat;  
 }
