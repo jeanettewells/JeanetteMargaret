@@ -42,7 +42,7 @@ h3 {
     position: relative;
     width: 80vw;
     height: 80vh;
-    background-image: url(assets/composition1.png);
+    background-image: url(../assets/composition1.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -56,7 +56,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 80vh;
-    background-image: url(assets/composition2.png);
+    background-image: url(../assets/composition2.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -68,7 +68,7 @@ h3 {
     position: relative;
     width: 40vw;
     height: 90vh;
-    background-image: url(assets/composition3.png);
+    background-image: url(../assets/composition3.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -80,7 +80,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 80vh;
-    background-image: url(assets/composition4.png);
+    background-image: url(../assets/composition4.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -92,7 +92,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition5.png);
+    background-image: url(../assets/composition5.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -104,7 +104,7 @@ h3 {
     position: relative;
     width: 43vw;
     height: 100vh;
-    background-image: url(assets/composition6.png);
+    background-image: url(../assets/composition6.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -116,7 +116,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition7.png);
+    background-image: url(../assets/composition7.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -128,7 +128,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition8.png);
+    background-image: url(../assets/composition8.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -140,7 +140,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition9.png);
+    background-image: url(../assets/composition9.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -152,7 +152,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition10.png);
+    background-image: url(../assets/composition10.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -164,7 +164,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition11.png);
+    background-image: url(../assets/composition11.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -176,7 +176,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition12.png);
+    background-image: url(../assets/composition12.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -188,7 +188,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition13.png);
+    background-image: url(../assets/composition13.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -200,7 +200,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition14.png);
+    background-image: url(../assets/composition14.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -212,7 +212,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition15.png);
+    background-image: url(../assets/composition15.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -224,7 +224,7 @@ h3 {
     position: relative;
     width: 70vw;
     height: 100vh;
-    background-image: url(assets/composition16.png);
+    background-image: url(../assets/composition16.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -236,7 +236,7 @@ h3 {
     position: relative;
     width: 33vw;
     height: 100vh;
-    background-image: url(assets/composition17.png);
+    background-image: url(../assets/composition17.png);
     background-size: 100%;
     background-repeat: no-repeat;
     align-content: center;

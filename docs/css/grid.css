@@ -55,7 +55,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid1.png);
+    background-image: url(../assets/grid1.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -68,7 +68,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid2.png);
+    background-image: url(../assets/grid2.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -82,7 +82,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid3.png);
+    background-image: url(../assets/grid3.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,7 +96,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid4.png);
+    background-image: url(../assets/grid4.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -110,7 +110,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid5.png);
+    background-image: url(../assets/grid5.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -124,7 +124,7 @@ h3 {
     height:60vh;
     display: flex;
     flex-direction: row;
-    background-image: url(assets/grid6.png);
+    background-image: url(../assets/grid6.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

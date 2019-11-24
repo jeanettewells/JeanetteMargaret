@@ -9,16 +9,16 @@ h2:hover {
     }
 
 .box1 {
-    background-image: url(assets/astolenidentity.gif);
+    background-image: url(../assets/astolenidentity.gif);
 }
 
 .box2 {
-    background-image: url(assets/redcross.gif);
+    background-image: url(../assets/redcross.gif);
     background-position: center;
 }
 
 .box3 {
-    background-image: url(assets/sketchbook.gif);
+    background-image: url(../assets/sketchbook.gif);
     background-size: 80%;
     background-color: black;
 }

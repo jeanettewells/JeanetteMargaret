@@ -17,30 +17,30 @@ color: black;
 }
 
 .box1 {
-    background-image: url(assets/shapingspace.png);
+    background-image: url(../assets/shapingspace.png);
 }
 
 .box2 {
-    background-image: url(assets/shades.png);
+    background-image: url(../assets/shades.png);
 }
 
 .box3 {
-    background-image: url(assets/grid.png);
+    background-image: url(../assets/grid.png);
 }
 
 .box7 {
-    background-image: url(assets/ikebana.png);
+    background-image: url(../assets/ikebana.png);
     background-size: 101%;
     background-position: center;
 }
 
 .box8 {
-    background-image: url(assets/organizingcollections.png);
+    background-image: url(../assets/organizingcollections.png);
     background-size: 140%;
     background-position: center;
 }
 
 .box9 {
-    background-image: url(assets/storymatrix3.png);
+    background-image: url(../assets/storymatrix3.png);
     background-position: center;
 }

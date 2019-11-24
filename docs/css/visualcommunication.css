@@ -17,42 +17,42 @@ color: black;
 }
 
 .box1 {
-    background-image: url(assets/thinkbig.png);
+    background-image: url(../assets/thinkbig.png);
     background-position: center;
 }
 
 .box2 {
-    background-image: url(assets/dogmoji.png);
+    background-image: url(../assets/dogmoji.png);
     background-size: 125%;
     background-position: center;
 }
 
 .box3 {
-    background-image: url(assets/dataviz.png);
+    background-image: url(../assets/dataviz.png);
     background-position: center;
 }
 
 .box7 {
-    background-image: url(assets/lightenupchicagobc.png);
+    background-image: url(../assets/lightenupchicagobc.png);
     background-size: 125%;
     background-position: center;
 }
 
 .box8 {
-    background-image: url(assets/learningbyplayingpamphlet2.png);
+    background-image: url(../assets/learningbyplayingpamphlet2.png);
     background-size: 105%;
     background-position: bottom ;
 }
 
 .box9 {
-    background-image: url(assets/whereto.png);
+    background-image: url(../assets/whereto.png);
     background-size: 170%;
     background-position-x: -5.8vw ;
 }
 
 
 .box13 {
-    background-image: url(assets/marinaabramovic.png);
+    background-image: url(../assets/marinaabramovic.png);
     background-size: 180%;
     background-position: bottom;
     background-position-x: -22vh;
@@ -66,7 +66,7 @@ color: black;
 }
 
 .box14 {
-    background-image: url(assets/bodiezine.png);
+    background-image: url(../assets/bodiezine.png);
     background-size: 190%;
     background-position: bottom right;
 }

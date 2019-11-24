@@ -55,7 +55,7 @@ h3 {
     position: relative;
     width: 14.5vw;
     height: 40vh;
-    background-image: url(assets/shade1.png);
+    background-image: url(../assets/shade1.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -69,7 +69,7 @@ h3 {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat ;
-    background-image: url(assets/shade2.png);
+    background-image: url(../assets/shade2.png);
 }
 
 .composition2 {
@@ -101,7 +101,7 @@ h3 {
     height: 70vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade3.png);
+    background-image: url(../assets/shade3.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: top left;
@@ -114,7 +114,7 @@ h3 {
     height: 80vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade4.png);
+    background-image: url(../assets/shade4.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: top right;
@@ -128,7 +128,7 @@ h3 {
     height: 30vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade5.png);
+    background-image: url(../assets/shade5.png);
     background-size: 30%;
     background-repeat: no-repeat;
     background-position: center;
@@ -162,7 +162,7 @@ h3 {
     position: relative;
     width: 22vw;
     height: 140vh;
-    background-image: url(assets/shade6.png);
+    background-image: url(../assets/shade6.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: top left;
@@ -175,7 +175,7 @@ h3 {
     height: 40vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade7.png);
+    background-image: url(../assets/shade7.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top left;
@@ -188,7 +188,7 @@ h3 {
     height: 40vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade8.png);
+    background-image: url(../assets/shade8.png);
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: top right;
@@ -201,7 +201,7 @@ h3 {
     height: 40vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade9.png);
+    background-image: url(../assets/shade9.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom left;
@@ -214,7 +214,7 @@ h3 {
     height: 40vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade10.png);
+    background-image: url(../assets/shade10.png);
     background-size: 120%;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -238,7 +238,7 @@ h3 {
     height: 90vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade11.png);
+    background-image: url(../assets/shade11.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top left;
@@ -251,7 +251,7 @@ h3 {
     height: 70vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade12.png);
+    background-image: url(../assets/shade12.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -266,7 +266,7 @@ h3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-image: url(assets/shade13.png);
+    background-image: url(../assets/shade13.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -281,7 +281,7 @@ h3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background-image: url(assets/shade14.png);
+    background-image: url(../assets/shade14.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -306,7 +306,7 @@ h3 {
     height: 90vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade15.png);
+    background-image: url(../assets/shade15.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -319,7 +319,7 @@ h3 {
     height: 90vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade17.png);
+    background-image: url(../assets/shade17.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -332,7 +332,7 @@ h3 {
     height: 90vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade16.png);
+    background-image: url(../assets/shade16.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -345,7 +345,7 @@ h3 {
     height: 90vh;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(assets/shade18.png);
+    background-image: url(../assets/shade18.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -367,7 +367,7 @@ h3 {
     width: 80vw;
     height: 60vh;
     display: flex;
-    background-image: url(assets/shade19.png);
+    background-image: url(../assets/shade19.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -380,7 +380,7 @@ h3 {
     width: 60vw;
     height: 90vh;
     display: flex;
-    background-image: url(assets/shade20.png);
+    background-image: url(../assets/shade20.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;

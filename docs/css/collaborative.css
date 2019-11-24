@@ -3,10 +3,10 @@
 }
 
 .box2 {
-    background-image: url(assets/lightenupchicago.png);s
+    background-image: url(../assets/lightenupchicago.png);
     background-position: center;
 }
 
 .box3 {
-    background-image: url(assets/learningbyplaying.png);
+    background-image: url(../assets/learningbyplaying.png);
 }
