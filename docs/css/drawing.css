@@ -14,7 +14,7 @@
     position: relative;
     width: 50vw;
     height: 60vh;
-    background-image: url(assets/drawing1.png);
+    background-image: url(../assets/drawing1.png);
     background-size: 100%;
     background-repeat: no-repeat;
     display: flex;
