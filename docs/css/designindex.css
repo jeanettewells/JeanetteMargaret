@@ -1,0 +1,89 @@
+.container1 {
+    margin: 0px auto;
+    position: relative;
+    width: 100vw;
+    height: 165vh;
+
+}
+
+@media screen and (max-width: 600px) {
+    .container1 {
+    height: 110vh;
+    }
+}
+
+.box1 {
+    background-image: url(../assets/compositionalstudies.png);
+}
+
+.box2 {
+    background-image: url(../assets/typography.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box3 {
+    background-image: url(../assets/thinkbigmag.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.box7 {
+    background-image: url(../assets/dogmoji.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.box8 {
+    background-image: url(../assets/dataviz.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box9 {
+    background-image: url(../assets/lightenupchicagobc.png);
+}
+
+.box13 {
+    background-image: url(../assets/learningbyplayingpamphlet2.png);
+    background-size: 105%;
+    background-position: center;
+}
+
+.box14 {
+    background-image: url(../assets/whereto.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.box15 {
+    background-image: url(../assets/marinaabramovic.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.box19 {
+    background-image: url(../assets/bodiezine.png);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.box20 {
+
+    background-size: contain;
+    background-position: center;
+
+}
+
+.box21 {
+
+    background-size: contain;
+    background-position: center;
+
+}
+

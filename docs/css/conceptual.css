@@ -2,13 +2,13 @@
     margin: 0px auto;
     position: relative;
     width: 100vw;
-    height: 135vh;
+    height: 165vh;
 
 }
 
 @media screen and (max-width: 600px) {
     .container1 {
-    height: 80vh;
+    height: 110vh;
     }
 }
 
@@ -48,7 +48,35 @@
 }
 
 .box14 {
+    background-image: url(../assets/astolenidentity.gif);
+    background-size: 110%;
+    background-position: center;
+}
+
+.box15 {
     background-image: url(../assets/weighted.jpg);
     background-size: 110%;
     background-position: center;
 }
+
+.box19 {
+    background-image: url(../assets/redcross.gif);
+    background-size: contain;
+    background-position: center;
+
+}
+
+.box20 {
+
+    background-size: contain;
+    background-position: center;
+
+}
+
+.box21 {
+
+    background-size: contain;
+    background-position: center;
+
+}
+

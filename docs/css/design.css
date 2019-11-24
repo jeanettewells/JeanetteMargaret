@@ -2,7 +2,7 @@
     margin: 0px auto;
     position: relative;
     width: 100vw;
-    height: 50vh;
+    height: 160vh;
 
 }
 
@@ -49,6 +49,18 @@
 
 }
 
+.designindex4 {
+    position: relative;
+    margin: 0px auto;
+    top: -14vh;
+    width: 120vh;
+    height: 280px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
 .designindextext {
     position: relative;
     margin: 0px auto;
@@ -82,6 +94,17 @@
     justify-content: space-around;
 }
 
+.designindextext4 {
+    position: relative;
+    margin: 0px auto;
+    top: -16vh;
+    width: 120vh;
+    height: 2vh; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .box1 {
     width: 32vh;
     height: 32vh;
@@ -90,7 +113,7 @@
     background-size: contain;
 }
 
-.box1:hover, .box2:hover, .box3:hover, .box7:hover, .box8:hover, .box9:hover, .box13:hover, .box14:hover, .box15:hover {
+.box1:hover, .box2:hover, .box3:hover, .box7:hover, .box8:hover, .box9:hover, .box13:hover, .box14:hover, .box15:hover, .box19:hover, .box22:hover, .box23:hover {
     opacity: .3;
 
 }
@@ -99,17 +122,17 @@
 .box2 {
     width: 32vh;
     height: 32vh;
-    background-image: url(../assets/visualcommunication.png);
+    background-image: url(../assets/typography.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .box3 {
     width: 32vh;
     height: 32vh;
-    background-image: url(../assets/webassite.gif);
+    background-image: url(../assets/thinkbigmag.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     background-position: center;
 }
 
@@ -131,25 +154,27 @@
 .box7 {
     width: 32vh;
     height: 32vh;
-    background-color: yellow;
+    background-image: url(../assets/dogmoji.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .box8 {
     width: 32vh;
     height: 32vh;
-    background-color: yellow;
+    background-image: url(../assets/dataviz.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .box9 {
     width: 32vh;
     height: 32vh;
-    background-color: yellow;
+    background-image: url(../assets/lightenupchicagobc.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     background-position: center;
 }
 
@@ -171,23 +196,26 @@
 .box13 {
     width: 32vh;
     height: 32vh;
-    background-color: yellow;
+    background-image: url(../assets/learningbyplayingpamphlet2.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center;
 }
 
 .box14 {
     width: 32vh;
     height: 32vh;
-    background-color: yellow;
+    background-image: url(../assets/whereto.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
 .box15 {
     width: 32vh;
     height: 32vh;
+    background-image: url(../assets/marinaabramovic.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
 }
 
@@ -206,6 +234,46 @@
     height: 5vh;
 }
 
+.box19 {
+    width: 32vh;
+    height: 32vh;
+    background-image: url(../assets/bodiezine.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box20 {
+    width: 32vh;
+    height: 32vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box21 {
+    width: 32vh;
+    height: 32vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.box22 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box23 {
+    width: 30vh;
+    height: 5vh;
+}
+
+.box24 {
+    width: 30vh;
+    height: 5vh;
+}
+
+
+
 
 /* paragraph styles */
 
@@ -221,7 +289,7 @@ h4 {
 /* mobile resizing */
 
 @media screen and (max-width: 600px) {
-    .designindex, .designindex2, .designindex3 {
+    .designindex, .designindex2, .designindex3, .designindex4 {
     width: 50vh;
     height: 50px;
     }
@@ -240,7 +308,13 @@ h4 {
 }
 
 @media screen and (max-width: 600px) {
-    .box1, .box2, .box3, .box7, .box8, .box9, .box13, .box14, .box15 {
+    .designindex4 {
+    top: 28vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .box1, .box2, .box3, .box7, .box8, .box9, .box13, .box14, .box15, .box19, .box20, .box21 {
     width: 16vh;
     height: 16vh;
     flex-wrap: wrap;
@@ -249,7 +323,7 @@ h4 {
 }
 
 @media screen and (max-width: 600px) {
-    .designindextext, .designindextext2, .designindextext3 {
+    .designindextext, .designindextext2, .designindextext3, .designindextext4 {
     top: 9vh;
     width: 50vh;
     height: 50px;
@@ -269,7 +343,13 @@ h4 {
 }
 
 @media screen and (max-width: 600px) {
-    .box4, .box5, .box6, .box10, .box11, .box12, .box16, .box17, .box18 {
+    .designindextext4 {
+    top: 40vh;;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .box4, .box5, .box6, .box10, .box11, .box12, .box16, .box17, .box18, .box22, .box23, .box24 {
     width: 16vh;
     height: 2vh;
     }
