@@ -3,7 +3,7 @@
     margin: 0px auto;
     position: relative;
     width: 80vw;
-    height:264vh;
+    height: 430vh;
     display: flex;
     flex-direction: column;
     
@@ -18,7 +18,7 @@ h2:hover {
     font-family: 'Hind', sans-serif;
     margin: 0px auto;
     position: relative;
-    width: 50vw;
+    width: 60vw;
     text-align: center;
     color: rgb(172, 172, 172);
 }
@@ -37,25 +37,33 @@ h3 {
 }
 
 .box1 {
-    left: 0vw;
     margin: 0px auto;
     position: relative;
-    width: 70vw;
-    height:100vh;
-    background-image: url(../assets/lightenupbcb.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    width: 80vw;
+    height: 90vh;
+    background-color: black;
 }
 
 .box2 {
-    left: 0vw;
     margin: 0px auto;
     position: relative;
-    width: 57vw;
-    height:80vh;
-    background-image: url(../assets/lightenupbcr.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    width: 80vw;
+    height: 90vh;
+    background-color: black;
+}
+
+.box3 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 90vh;
+    background-color: black;
+}
+
+.box4 {
+    margin: 0px auto;
+    position: relative;
+    width: 80vw;
+    height: 90vh;
+    background-color: black;
 }
